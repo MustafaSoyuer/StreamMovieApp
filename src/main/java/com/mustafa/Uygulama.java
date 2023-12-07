@@ -206,7 +206,7 @@ public class Uygulama {
     /**
      * 10-Toplam hasılatı en yüksek olan belirli bir ülkedeki yönetmenin ismini bulmak için bir Stream ifadesi yazınız
      */
-    
+
 
 
 
